@@ -10,3 +10,10 @@
 Reference 
 1. http://labrosa.ee.columbia.edu/~dpwe/resources/matlab/fingerprint/
 2. https://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf
+
+- Specification used for this work:
+  - Matlab 2018a above
+
+:no_entry: The dataset is not provided to protect personal right
+
+😃 The command example is provided
